@@ -1,6 +1,10 @@
 Call Center Data Analysis Dashboard
 Project Overview
 This project demonstrates the creation of a dynamic, interactive dashboard using Excel for analyzing a call center dataset. The dashboard provides insights into key metrics such as call volumes, response times, and customer satisfaction rates.
+Project Overview
+
+![CallCenter_Dashboard](https://github.com/user-attachments/assets/ac1c10da-3572-4899-ae32-4406b712afb2)
+
 
 Project Steps:
 Data Cleaning with Power Query:
